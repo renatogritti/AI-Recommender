@@ -1,0 +1,48 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-889-112
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:09:41] "[37mGET /id/Pedro/similarpeople HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/renato/Downloads/Euclid/euclid.py', reloading
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-889-112
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:12:07] "[37mGET /id/Pedro/similarpeople HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/renato/Downloads/Euclid/Api-Server.py', reloading
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-889-112
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:14:04] "[1m[35mGET /id/Pedro/similarpeople HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/Users/renato/Downloads/Euclid/Api-Server.py', reloading
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-889-112
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:16:16] "[37mGET /id/Pedro/similarpeople HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Users/renato/Downloads/Euclid/Api-Server.py', reloading
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-889-112
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:17:57] "[37mGET /id/Pedro/similarpeople HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with fsevents reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 308-889-112
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:24:10] "[37mGET /id/Leonardo/peoplerecommendation HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:24:30] "[37mGET /id/Leonardo/similarpeople HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:25:10] "[37mPOST /auth HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:25:44] "[37mGET /id/Star%20Trek/similaritem HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:26:30] "[37mGET /id/Star%20Trek/itemrecommendation HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:26:47] "[1m[35mGET /id/Star%20wars/itemrecommendation HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:26:54] "[37mGET /id/Star%20Wars/itemrecommendation HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:29:04] "[37mGET /id/Leonardo/similarpeople HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:30:06] "[37mGET /id/Star%20Wars/itemrecommendation HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:30:56] "[37mGET /id/Star%20Wars/itemrecommendation HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2020 00:31:15] "[37mGET /id/Star%20Wars/itemrecommendation HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/Volumes/Dados/Users/renato/anaconda3/envs/dev_phyton/lib/python3.7/site-packages/cv2/__pycache__/__init__.cpython-37.pyc', reloading
+INFO:werkzeug: * Detected change in '/Volumes/Dados/Users/renato/anaconda3/envs/dev_phyton/lib/python3.7/site-packages/cv2/data/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Volumes/Dados/Users/renato/anaconda3/envs/dev_phyton/lib/python3.7/site-packages/cv2/data/__pycache__/__init__.cpython-37.pyc', reloading
+INFO:werkzeug: * Detected change in '/Volumes/Dados/Users/renato/anaconda3/envs/dev_phyton/lib/python3.7/site-packages/cv2/__init__.py', reloading
